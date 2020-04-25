@@ -10,7 +10,8 @@ Movement: Arrows to move
           "z" and "x" to attack
           "r" to restart
           
-
+Link to Play the game: 
+> https://franciol.github.io/Dungeon2D/
 
 
 
